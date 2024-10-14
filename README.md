@@ -1,7 +1,7 @@
-                                        👋 Hi, I'm Michael (Michał in my native language :D)
- 👀 I’m interested in working as a full stack developer. Currently I'm looking for my first job as a front-end/full-stack developer (trainee/junior level).
+👋 Hi, I'm Michael (Michał in my native language :D)
+👀 I’m interested in working as a full stack developer. Currently I'm looking for my first job as a front-end/full-stack developer (trainee/junior level).
  
- 🌱 I’m currently learning React Library with as many as I can handle 3rd party libraries and TS. I also plan to learn Python, SQL, and some C# with .NET 8.0. In short words I love to learn new stuff <3.
+🌱 I’m currently learning React Library with as many as I can handle 3rd party libraries and TS. I also plan to learn Python, SQL, and some C# with .NET 8.0. In short words I love to learn new stuff <3.
 
 
 
