@@ -1,21 +1,40 @@
-👋 Hi, I'm Michael (Michał in my native language :D)
+# 👋 Hi, I'm Michael (Michał in my native language 😄)
 
-👀 I’m interested in working as a full stack developer. Currently I'm looking for my first job as a front-end/full-stack developer (trainee/junior level).
- 
-🌱 I’m currently learning React Library with as many as I can handle 3rd party libraries and TS. I also plan to learn Python, SQL, and some C# with .NET 8.0. In short words I love to learn new stuff <3.
+🌟 I'm an aspiring **Full Stack Developer**, currently focusing on **Front-End Development**. My goal is to bring ideas to life with clean, interactive, and responsive designs. I'm actively seeking my first role as a **Trainee/Junior Developer**.
 
+---
 
+## 🛠 Technologies I Work With
 
- 
- 
-💞️ I'm working on some cool projects, like App for booking visits in hotel. I'm also creating my profile-page as SPA with using React library and styled-components for good UX.
-Other projects i plan:
-Car Shop as SPA (React library with supabase backend, Tailwind, ReactQuery, ReactHookForm, React-Router-Dom and more!)
+### Frontend
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) React
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) JavaScript (ES6+)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) TypeScript
+- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) TailwindCSS
+- ![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?logo=styled-components&logoColor=white&style=flat-square) Styled-Components
 
-📫 If you want contact me, just write me an email (I check every day few times :D)
+### Backend (Learning Soon)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) Python
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) Node.js
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square) C# (.NET)
 
+### Tools & Other
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) Git
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) GitHub
+- ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) Visual Studio Code
 
-<!---
-FlamingShali/FlamingShali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 What I'm Learning
+
+- **Frontend**: Angular, Svelte
+- **Backend**: Python, SQL, C# with .NET 8.0
+- **DevOps**: Docker, Kubernetes
+
+---
+
+## 🌱 Projects I'm Working On
+
+- **Hotel Booking App**: An app for booking hotel visits, focusing on seamless UX/UI.
+- **Profile Page**: A SPA built with React and styled-components for a great user experience.
+- **Car Shop SPA**: (In Progress) A full-stack project using React, Supabase, Tailwind, and advanced libraries like React Query and React Hook Form.
