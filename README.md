@@ -25,6 +25,6 @@
 
 | Platform          | Link                              |
 |-------------------|-----------------------------------|
-| **Email**         | michal.klepner2@gmail.com           |
+| **Email**         | michalklepner2@gmail.com           |
 | **GitHub**        | [FlamingShali](https://github.com/FlamingShali) |
 | **LinkedIn**      | https://www.linkedin.com/in/micha%C5%82-klepner-076510247/
