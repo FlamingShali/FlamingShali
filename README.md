@@ -10,7 +10,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/> **JavaScript**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/> **TypeScript**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" width="20" alt="TailwindCSS"/> **TailwindCSS**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" width="30" alt="TailwindCSS"/> **TailwindCSS**
 - <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="30" alt="Styled-Components"/> **Styled-Components**
 
 
