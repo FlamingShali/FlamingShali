@@ -10,10 +10,9 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/> **JavaScript**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/> **TypeScript**
-- <<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.24b97a44b44e60f5c10c6b8b1e1c506e.svg" height="30" alt="TailwindCSS"/>
- **TailwindCSS**
-- <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="30" alt="Styled-Components"/>
- **Styled-Components**
+- <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.24b97a44b44e60f5c10c6b8b1e1c506e.svg" height="30" alt="TailwindCSS"/> **TailwindCSS**
+- <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="30" alt="Styled-Components"/> **Styled-Components**
+
 
 ### Backend (Learning Soon)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/> **Python**
