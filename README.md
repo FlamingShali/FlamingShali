@@ -20,3 +20,11 @@
 - **Hotel Booking App**: An app for booking hotel visits, focusing on seamless UX/UI.
 - **Profile Page**: A SPA built with React and styled-components for a great user experience.
 - **Car Shop SPA**: (In Progress) A full-stack project using React, Supabase, Tailwind, and advanced libraries like React Query and React Hook Form.
+
+- ## 📫 How to Reach Me
+
+| Platform          | Link                              |
+|-------------------|-----------------------------------|
+| **Email**         | michal.klepner2@gmail.com           |
+| **GitHub**        | [FlamingShali](https://github.com/FlamingShali) |
+| **LinkedIn**      | https://www.linkedin.com/in/micha%C5%82-klepner-076510247/
