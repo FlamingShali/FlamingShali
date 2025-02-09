@@ -13,8 +13,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/> **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/> **C# (.NET)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/> **VS Code** |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" width="30" alt="TailwindCSS"/> **TailwindCSS** |                                  |                             |
 
-
-- ## 📫 How to Reach Me
+📫 How to Reach Me
 
 | Platform          | Link                              |
 |-------------------|-----------------------------------|
