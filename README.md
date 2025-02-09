@@ -13,13 +13,6 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/> **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/> **C# (.NET)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/> **VS Code** |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" width="30" alt="TailwindCSS"/> **TailwindCSS** |                                  |                             |
 
----
-
-## 🌱 Projects I'm Working On
-
-- **Hotel Booking App**: An app for booking hotel visits, focusing on seamless UX/UI.
-- **Profile Page**: A SPA built with React and styled-components for a great user experience.
-- **Car Shop SPA**: (In Progress) A full-stack project using React, Supabase, Tailwind, and advanced libraries like React Query and React Hook Form.
 
 - ## 📫 How to Reach Me
 
