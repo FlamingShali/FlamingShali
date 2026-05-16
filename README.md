@@ -19,6 +19,4 @@
 | Platform          | Link                              |
 |-------------------|-----------------------------------|
 | **Email**         | michalklepner2@gmail.com           |
-| **GitHub**        | [FlamingShali](https://github.com/FlamingShali) |
-| **LinkedIn**      | [My Linkedin](https://www.linkedin.com/in/micha%C5%82-klepner-076510247/) |
-| **My Portfolio**  | [My Portfolio Website](https://flaming-shali-portfolio-six.vercel.app/)
+
